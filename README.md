@@ -3,7 +3,7 @@ Hyperspectral Anomaly Detection via Cascaded Convolutional Autoencoders with Ada
 
 ~~~
 @article{zhao2025hyperspectral,
-  title={Hyperspectral anomaly detection via Cascaded convolutional autoencoders with adaptive     pixel-level attention},
+  title={Hyperspectral anomaly detection via Cascaded convolutional autoencoders with adaptive pixel-level attention},
   author={Zhao, Zhe and Song, Jiangluqi and You, Mingtao and Xiang, Pei and Zhao, Dong and Zhang, Jiajia and Zhou, Huixin and Wang, Dabao and Wang, Xiaofang},
   journal={Expert Systems with Applications},
   vol={279},
